@@ -1,5 +1,6 @@
 # benchmarks
 
+```
 
 Library - Action                    Duration (seconds)
 --------------------------------  --------------------
@@ -19,3 +20,4 @@ DRF - Serialize - One                       0.15262
 DRF - Deserialize - One                     0.00411916
 DRF - Serialize - Many                      0.256234
 DRF - Deserialize - Many                    0.0124102
+```
